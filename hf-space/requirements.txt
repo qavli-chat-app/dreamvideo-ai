@@ -1,0 +1,7 @@
+gradio>=5.0,<6.0
+spaces>=0.30.0
+torch
+diffusers>=0.30.0
+transformers>=4.40.0
+accelerate
+imageio-ffmpeg
